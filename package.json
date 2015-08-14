@@ -1,0 +1,16 @@
+{
+  "name": "webpack-babel-jest",
+  "version": "1.0.0",
+  "description": "Jest plugin for working with Webpack and Babel",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atecarlos/webpack-babel-jest.git"
+  },
+  "author": "Carlos Atencio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atecarlos/webpack-babel-jest/issues"
+  },
+  "homepage": "https://github.com/atecarlos/webpack-babel-jest#readme"
+}
