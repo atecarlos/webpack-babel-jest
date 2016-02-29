@@ -1,7 +1,7 @@
 # webpack-babel-jest
 Jest plugin for working with Webpack and Babel
 
-It leverages [Babel-Jest](https://github.com/babel/babel-jest), and ignores any css, scss, or less file during test execution.
+It leverages [Babel-Jest](https://github.com/babel/babel-jest), and ignores any css, scss, less, png, jpg, and gif file during test execution.
 
 [Webpack](https://github.com/webpack/webpack) [Babel](https://github.com/babel/babel) [jest](https://github.com/facebook/jest) plugin
 
