@@ -1,6 +1,6 @@
 {
   "name": "webpack-babel-jest",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Jest plugin for working with Webpack and Babel",
   "main": "index.js",
   "repository": {
